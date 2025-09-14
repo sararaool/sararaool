@@ -1,6 +1,5 @@
 ## Hi there, I'm Sara Raool! 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Data+Enthusiast;Transforming+Data+into+Stories;Always+Learning%2C+Always+Growing!)
-
 <br>🚀 About Me
 <br>I'm a passionate Data Science graduate with a stellar 9.73/10.00 CGPA who loves transforming complex datasets into compelling stories and actionable insights. 
 
